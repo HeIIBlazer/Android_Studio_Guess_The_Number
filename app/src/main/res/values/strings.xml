@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guess_The_Number</string>
+    <string name="behind">Incorrect (Bigger number)</string>
+    <string name="ahead">Incorrect (Smaller number)</string>
+    <string name="hit">GOOD JOB</string>
+    <string name="input_value">Enter Number</string>
+    <string name="play_more">One more time?</string>
+    <string name="try_to_guess">Try to guess (1 &#8211; 10)</string>
+    <string name="error">Incorrect enter</string>
+</resources>
